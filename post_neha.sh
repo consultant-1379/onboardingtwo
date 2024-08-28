@@ -1,0 +1,1 @@
+curl -X POST https://fem110-eiffel004.lmera.ericsson.se:8443/jenkins/job/test_parent/build
